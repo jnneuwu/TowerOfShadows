@@ -47,3 +47,8 @@ Demo_Video_Script.docx
 Sound_Implementation_Report.pdf
 Lab6_Effects_Report.pdf
 Mingyu*.pdf
+# Backup Unity project that lives next to the main one
+/BatchProject/
+
+# Claude Code session metadata
+/.claude/
