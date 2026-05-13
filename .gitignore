@@ -1,0 +1,49 @@
+﻿# Unity generated/cache folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+sysinfo.txt
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+.idea/
+
+# Unity 3D Mac
+*.DS_Store
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Recordings
+/Recordings/
+
+# Generated python cache
+__pycache__/
+*.pyc
+
+# Submission artifacts
+GD_Final_*.zip
+GD_PlayTest_Report_*.pdf
+Lab*_Report.pdf
+Demo_Video*.mp4
+Demo_Video_Script.docx
+Sound_Implementation_Report.pdf
+Lab6_Effects_Report.pdf
+Mingyu*.pdf
